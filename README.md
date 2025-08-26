@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Dakota
-- 👀 I’m interested in computer science, electrical engineering and physics
-- 🌱 I’m currently learning electrical engineering with a focus on software
-- 💞️ I’m looking to collaborate on programming of all kinds of levels. I am mostly proficient using Unity, and with that C#, python and MatLab.
+- 👀 I’m interested in computer science, electrical engineering and physics. I am particularly interested in simulations and their engine designs.
+- 🎓 Graduated from UC Berkeley with a 3.968 GPA in Moleculare Sciences and Software Engingeering.
+- 🎓 Graduated from Clarkson University with a 3.684 GPA in Electrical Engingeering.
+- 💞️ I’m looking to collaborate on programming of all kinds of levels. I very proficient with C++, C#, Unity, Java, Python, Matlab, Octave and more.
 - 📫 Reach me at: turk_dakota.precut041@aleeas.com
